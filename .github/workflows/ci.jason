@@ -1,8 +1,8 @@
-name: CI
+name: keep on device
 
 on:
   pull_request:
-  push:
+  stage:
     branches:
       - main
 
